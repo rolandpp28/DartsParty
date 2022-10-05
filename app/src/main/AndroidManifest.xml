@@ -9,9 +9,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DartsParty">
         <activity
-            android:name=".UserOff"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
