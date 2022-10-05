@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357231559008",
+    "project_id": "darts-party",
+    "storage_bucket": "darts-party.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357231559008:android:24b6afcae46ab0d85c1e05",
+        "android_client_info": {
+          "package_name": "com.example.dartsparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357231559008-n1kk1kbm5q0vvpdfvq1ujdsto5k2idh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRBgq687vnjKgsicDvJ-jvrxA1-s8Rfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357231559008-n1kk1kbm5q0vvpdfvq1ujdsto5k2idh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
